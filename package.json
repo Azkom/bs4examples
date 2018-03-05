@@ -1,6 +1,6 @@
 {
   "name": "bs4starter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Bootstrap 4 Example: Looplab, based on Udemy course",
   "main": "index.js",
   "scripts": {
