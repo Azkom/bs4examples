@@ -11,5 +11,3 @@ Steps to use:
 Clone or Copy it into a local machine
 
 npm install
-
-npm start
